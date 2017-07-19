@@ -1,0 +1,99 @@
+*http://cq.spb.gov.cn
+1 http://cq.spb.gov.cn/zcfg/
+  #submenu111
+
+  http://cq.spb.gov.cn/zcfg/index.html
+  http://cq.spb.gov.cn/zcfg/index_1.html
+
+
+*http://www.stats.gov.cn/
+1 http://www.stats.gov.cn/tjsj/zxfb/
+  .center_list
+
+  http://www.stats.gov.cn/tjsj/zxfb/index.html
+  http://www.stats.gov.cn/tjsj/zxfb/index_1.html
+
+2 http://www.stats.gov.cn/tjsj/sjjd/
+  .center_list
+
+  http://www.stats.gov.cn/tjsj/sjjd/index.html
+  http://www.stats.gov.cn/tjsj/sjjd/index_1.html
+
+
+*http://www.cqmj.gov.cn
+1 http://www.cqmj.gov.cn/mjgov/html/gjfg/
+  .article_list
+
+  http://www.cqmj.gov.cn/mjgov/html/gjfg/index.html
+  http://www.cqmj.gov.cn/mjgov/html/gjfg/index_2.html
+
+
+*http://www.cqmb.gov.cn
+1 http://www.cqmb.gov.cn/ecms/zhengcefagui/falvfagui/
+  .box:first-child
+
+  http://www.cqmb.gov.cn/ecms/zhengcefagui/falvfagui/index.html
+  http://www.cqmb.gov.cn/ecms/zhengcefagui/falvfagui/index_2.html
+
+
+*http://www.cqsw.gov.cn
+1 http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_gwywj/
+  .mr_con same1
+
+  http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_gwywj/index.html
+  http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_gwywj/index_1.html
+
+2 http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_szfwj/
+  .mr_con same1
+
+  http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_szfwj/index.html
+  http://www.cqsw.gov.cn/Xbb_gsgw/Xbb_zcwj/Xbb_szfwj/index_1.html
+
+
+*http://jyj.cq.gov.cn/
+1 http://jyj.cq.gov.cn/CL0018/
+  #_ctl0_MainContent_plListSyle0 [target=_blank]
+  
+  http://jyj.cq.gov.cn/CL0018/index.html
+  http://jyj.cq.gov.cn/CL0018/index_1.html
+
+2 http://jyj.cq.gov.cn/CL0019/
+  #_ctl0_MainContent_plListSyle0 [target=_blank]
+
+  http://jyj.cq.gov.cn/CL0019/index.html
+
+3 http://jyj.cq.gov.cn/CL0020/
+  #_ctl0_MainContent_plListSyle0 [target=_blank]
+  
+  http://jyj.cq.gov.cn/CL0020/index.html
+  http://jyj.cq.gov.cn/CL0020/index_1.html
+
+4 http://jyj.cq.gov.cn/CL0247/
+  #_ctl0_MainContent_plListSyle0 [target=_blank]
+
+  http://jyj.cq.gov.cn/CL0247/index.html
+
+
+*http://www.cqjyj.gov.cn/
+1 http://www.cqjyj.gov.cn/aspx/ch/news.aspx?classid=2
+  .news_list
+
+  http://www.cqjyj.gov.cn/aspx/ch/news.aspx?classid=2&page=1
+
+
+*http://jjg.cq.gov.cn/
+1 http://jjg.cq.gov.cn/zfgw/11/
+  .title
+
+  http://jjg.cq.gov.cn/gzdt/57/index.shtml
+
+*https://www.yidaiyilu.gov.cn/
+1 https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10006
+  .wtfz_list_right > ul
+
+  https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10006&cur_page=1
+  https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10006&cur_page=2
+
+  
+
+

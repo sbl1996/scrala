@@ -31,6 +31,8 @@ class Engine(val spider: Spider, val scheduler: Scheduler) extends Actor {
 
   val downloaderManager: ActorRef = context actorOf (Props(new DefaultDownloadManager(self, spider.workerCount)), "downloadermanager")
 
+
+
   def receive = {
     // request from the spider class
     case (url: String, callback: (HttpResponse => Unit)) =>
